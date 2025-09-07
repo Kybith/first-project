@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dev/Task_clone/git-clone-lesson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dev/Task_clone/m1-t6-decoder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dev/Task_clone/m1-t6-jar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dev/Task_clone/m1-t6-jdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dev/first-project" vcs="Git" />
+  </component>
+</project>
