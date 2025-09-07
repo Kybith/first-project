@@ -9,6 +9,7 @@ public class ConsoleApp {
         boolean needBorder = false;
         String borderSymbol = "S";
 
+
         if (args.length > 0) {
             for (int i = 0; i < args.length; i += 1) {
                 String token = args[i];
